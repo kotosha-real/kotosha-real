@@ -1,13 +1,14 @@
-### Oh hi ~~Mark~~ 👋
+### Oh hi ~~Mark~~ 👋🏻
 
 ## Anton. Or Kotosha
 
-I'm currently working as a frontend dev in [Diginetica](https://anyquery.diginetica.com/). We work with a huge number of Russian online stores from large to small
+I'm currently working as a frontend dev in [Diginetica](https://anyquery.diginetica.com/). We work with a huge number of Russian online stores from large to small. We provide customizable search widgets to improve user experience and boost client's search revenue
 
 - 🤝🏻 I’m looking forward to contribute to some Open Source projects!
 - 🥅 Goals: be a good man, good developer and sorta good athlete 🤣
 - 🏋🏻‍♂️ Yeah i do some powerlifting stuff (bench press actually)
 - 🎸 I also play music sometimes. Check [us](https://open.spotify.com/artist/5yWIerA4ENbLVTMkPJbbyS) out
+- 🎮 And of course I like videogames
 
 ### Wibe 🎧
 
@@ -39,6 +40,9 @@ Some for work, some for the soul
   <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
   <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
   <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png">
+  <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png">
   <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
   <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   <img align="left" height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
@@ -52,11 +56,9 @@ Some for work, some for the soul
 
 ![Kotosha's github stats](https://github-readme-stats.vercel.app/api?username=kotosha-real&show_icons=true&theme=gotham)
 
-<br />
-
 ---
 
-### 📕 Yeah I use these things
+### 🧾 Yeah I use these things a lot
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotosha-real)
 
