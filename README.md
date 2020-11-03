@@ -1,6 +1,6 @@
-### Oh hi ~~Mark~~ 👋🏻
+### Oh hi Mark 👋🏻
 
-## Anton. Or Kotosha
+## Name's Anton. Or Kotosha
 
 I'm currently working as a frontend dev in [Diginetica](https://anyquery.diginetica.com/). We work with a huge number of Russian online stores from large to small. We provide customizable search widgets to improve user experience and boost client's search revenue
 
