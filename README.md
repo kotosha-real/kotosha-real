@@ -4,7 +4,7 @@
 
 I currently work as a frontend dev in [Diginetica](https://anyquery.diginetica.com/). We work with a huge number of Russian online stores from large to small. We provide customizable search widgets to improve user experience and boost client's search revenue
 
-- 🤝🏻 I’m looking forward to contribute to some Open Source projects!
+- 🤝🏻 I’m looking forward to contributing to some Open Source projects!
 - 🥅 Goals: be a good man, a good ~~husband~~ partner, a good developer and a sorta good athlete 🤣
 - 🏋🏻‍♂️ Yeah i do some powerlifting stuff (bench press actually)
 - 🎸 I also play music sometimes. [Check us out](https://open.spotify.com/artist/5yWIerA4ENbLVTMkPJbbyS)
