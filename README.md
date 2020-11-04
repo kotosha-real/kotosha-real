@@ -2,12 +2,12 @@
 
 ## Name's Anton. Or Kotosha
 
-I'm currently working as a frontend dev in [Diginetica](https://anyquery.diginetica.com/). We work with a huge number of Russian online stores from large to small. We provide customizable search widgets to improve user experience and boost client's search revenue
+I currently work as a frontend dev in [Diginetica](https://anyquery.diginetica.com/). We work with a huge number of Russian online stores from large to small. We provide customizable search widgets to improve user experience and boost client's search revenue
 
 - 🤝🏻 I’m looking forward to contribute to some Open Source projects!
-- 🥅 Goals: be a good man, good developer and sorta good athlete 🤣
+- 🥅 Goals: be a good man, a good ~~husband~~ partner, a good developer and a sorta good athlete 🤣
 - 🏋🏻‍♂️ Yeah i do some powerlifting stuff (bench press actually)
-- 🎸 I also play music sometimes. Check [us](https://open.spotify.com/artist/5yWIerA4ENbLVTMkPJbbyS) out
+- 🎸 I also play music sometimes. [Check us out](https://open.spotify.com/artist/5yWIerA4ENbLVTMkPJbbyS)
 - 🎮 And of course I like videogames
 
 ### Wibe 🎧
