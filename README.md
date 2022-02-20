@@ -2,7 +2,7 @@
 
 ## Name's Anton. Or Kotosha 🐯
 
-I currently work as a frontend developer at [Yandex Practicum](https://practicum.yandex.ru/){:target="_blank"}. We are building one of the largest online learning platforms with a wide range of courses from programming to management.
+I currently work as a frontend developer at [Yandex Practicum](https://practicum.yandex.ru/). We are building one of the largest online learning platforms with a wide range of courses from programming to management.
 
 I also mentor students on [Yandex Practicum Middle Frontend course](https://practicum.yandex.ru/middle-frontend/).
 
