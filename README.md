@@ -13,12 +13,6 @@ Apart from that:
 - 🎸 I play music. [Check us out](https://open.spotify.com/artist/5yWIerA4ENbLVTMkPJbbyS)
 - 🎮 And of course I like videogames ;)
 
-### Wibe 🎧
-
-I usually listen to some pretty good stuff
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=68cclgvoe3ee8yxlzcfbtl6t8&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=68cclgvoe3ee8yxlzcfbtl6t8&redirect=true)
-
 ### Connect with me 🖖🏻
 
 I am always open to have a good chat ;)
