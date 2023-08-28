@@ -1,10 +1,8 @@
 ### Oh hi Mark 👋🏻
 
-I currently work as a frontend developer at [Yandex Practicum](https://practicum.yandex.ru/). We are building one of the largest online learning platforms with a wide range of educational courses.
+I currently work as a frontend engineer at [Yandex Practicum](https://practicum.yandex.ru/). We are building one of the largest online learning platforms with a wide range of educational courses.
 
-Mentored students on the [Yandex Practicum Middle Frontend course](https://practicum.yandex.ru/middle-frontend/).
-
-Writing content for the [Software development course at Practicum](https://practicum.com/software-engineer/).
+Writing content for the [Software development course at Tripleten](https://tripleten.com/software-engineer/) and the [Yandex Practicum Middle Frontend course](https://practicum.yandex.ru/middle-frontend/).
 
 Articles:
 - [Medium (mostly english)](https://kotosha.medium.com/)
